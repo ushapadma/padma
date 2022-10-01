@@ -1,0 +1,39 @@
+ <!DOCTYPE html>
+<html>
+    <head>
+    <title> RESTUARANT MENU </title>
+        <style>
+        h5{
+            background-color:lime;
+        }
+        </style>
+        
+     
+     </head>
+     <body>
+        <h5> MILK DRINK
+            </h5>
+        <ol>TEA -10/-</ol>
+        <ol>COFFEE-20/- </ol>
+        <ol> GREENTEA-15/- </ol>
+        <ol>BOOST-25/-</ol>
+        <ol>MILK -20/-</ol>
+        <ol>BADAM SHAKES-50/-</ol>
+        <h5> TIFFINS</h5>
+        <ol>IDLY-50/- </ol>
+        <ol>DOSA-35/-</ol>
+        <ol>UPMA PESARTTU-40/-</ol>
+        <ol>MYSORE BAJJI-50/-</ol>
+        <ol>PLAIN DOSA-30/- </ol>
+        <ol>VADA-40/- </ol>
+        <h5>MEALS</h5>
+        <ol> VEG FULL MEALS-250/-</ol>
+        <ol> VEGHALF MEALS-200/-</ol>
+        <ol>CHICKEN BIRYANI-400/-</ol>
+        <ol>DUM BIRYANI-500/- </ol>
+        <ol>FRY CHICKEN BIRYANI-300/-</ol>
+        <ol>NOODLES-100/- </ol>
+        <ol>MANCHOORI-150/- </ol>
+        <ol>SOFT DRINKS-20,50,100,200 /-</ol>
+        </body>
+</html>
